@@ -1,4 +1,4 @@
-# Recipe Box 🍳
+# Recipe Box
 
 A simple web app for storing and sharing your favorite recipes. Built with Flask and Vue.js.
 
@@ -39,7 +39,7 @@ npm install
 npm run serve
 ```
 
-Visit `http://localhost:8080` in your browser to start using Recipe Box!
+Follow link in terminal, `http://localhost:8080` to start using Recipe Box
 
 ## What's Inside
 
@@ -61,11 +61,11 @@ Feel free to:
 
 ## Next Steps
 
-Some features we're thinking about:
+Some features I'm thinking about:
 - Recipe categories
 - Search functionality
 - User accounts
 - Recipe reviews and comments
 - Recipe difficulty vs time matrix
 
-Happy Cooking! 🥘
+Happy Cooking! 
